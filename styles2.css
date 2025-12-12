@@ -1,0 +1,104 @@
+p {
+	font-family: Arial, Helvetica,san-serif;
+	font-size: 20px;
+	color: navy
+}
+h1 {
+	font-family: Times New Roman;
+	font-size: 75px;
+	text-align: center;
+	color: black;
+	background-color: slategray;
+}
+
+	nav ul{
+		  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background-color: slategray;
+  color: slategray;
+		}
+
+		li a{
+			display: block;
+			width: 100px;
+			background-color: slategray;
+			padding: 5px;
+			text-align: center;
+		}
+div{
+	text-align: center;
+	background-color:lightgray;
+	padding: 60px;
+}
+
+.footer {
+  background-color: navy
+  color: skyblue;
+  text-align: center;
+  padding: 20px 0;
+  position: relative; 
+  bottom: 0;
+  width: 100%;
+  margin-top: 40px;
+}
+
+.my-list {
+  font-size: 20px;
+  color: navy;
+  text-align: center;
+}
+
+.my-list {
+  list-style-position: inside;
+}
+
+h2 {
+  color: navy;   
+}
+
+table {
+	width: 650px;
+	height: 400px;
+	background-color: navy;
+	border: 3px;
+	text-align: center;
+	margin: auto;
+}
+
+th {
+		border: 1px solid black;
+		background-color: lightsteelblue;
+		color: navy;
+}
+
+td {
+	border: 1px dashed;
+	background-color: lightsteelblue;
+	color: navy;
+}
+
+caption{
+  font-size: 20px;
+  font-weight: bold;
+  color: navy;
+  margin-bottom: 10px; 
+  background-color: lightsteelblue;
+}
+
+.page1 {
+    background-color: darkgray;                 
+}
+
+.page2 {
+    background-color: dimgrey;                 
+}
+
+.page3 {
+    background-color: lemonchiffon;                 
+}
+
+.home {
+    background-color: darkgray;                 
+}
